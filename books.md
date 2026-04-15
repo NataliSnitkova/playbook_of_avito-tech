@@ -3,6 +3,7 @@
 
 ## Управление продуктом
 #### Agile Estimating and Planning |  Mike Cohn
+[Материалы С.Тихомирова](https://productframework.ru/)
 
 [Купить на АльпинаКниги (бумажная, на русском языке) →](https://alpinabook.ru/catalog/book-agile/?srsltid=AfmBOopLhJ6q_5Vo0uQi2rcjxqcjKLk5z7HRn3DeiYkQnAu0TXVJIffq)
 
